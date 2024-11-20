@@ -25,7 +25,7 @@ Este projeto é uma aplicação Python que permite criar e gerenciar uma watchli
 
 1. Clone este repositório:
    bash
-   git clone https://github.com/seu_usuario/Letterboxd-Watchlist.git
+   git clone https://github.com/DavhiHsf/Letterboxd-Watchlist.git
    
 2. Instale as dependências necessárias:
    bash
